@@ -5,3 +5,4 @@ authors = ["Scott Harper <orcein@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+cpal = "*"
